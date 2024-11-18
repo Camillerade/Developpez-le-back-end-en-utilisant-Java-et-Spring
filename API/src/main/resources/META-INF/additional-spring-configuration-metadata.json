@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "file.upload-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'file.upload-dir'"
+  },
+  {
+    "name": "spring.web.servlet.path-matching.strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.web.servlet.path-matching.strategy'"
+  }
+]}

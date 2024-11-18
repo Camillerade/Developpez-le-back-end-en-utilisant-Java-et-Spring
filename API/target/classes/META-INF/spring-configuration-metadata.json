@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.Location.API.Configuration.JwtConfig",
+      "sourceType": "com.Location.API.Configuration.JwtConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "description": "A description for 'file.upload-dir'"
+    },
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.Location.API.Configuration.JwtConfig"
+    },
+    {
+      "name": "spring.web.servlet.path-matching.strategy",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.web.servlet.path-matching.strategy'"
+    }
+  ],
+  "hints": []
+}
