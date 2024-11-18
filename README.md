@@ -25,7 +25,7 @@ Le projet est divisé en deux parties principales :
     Clonez le dépôt depuis GitHub :
 
     ```bash
-    git clone https://github.com/OpenClassrooms-Student-Center/P3-Full-Stack-portail-locataire
+    git clone https://github.com/Camillerade/Developpez-le-back-end-en-utilisant-Java-et-Spring
     ```
 
 2. **Accéder au répertoire**
@@ -33,7 +33,7 @@ Le projet est divisé en deux parties principales :
     Allez dans le dossier du projet :
 
     ```bash
-    cd P3-Full-Stack-portail-locataire
+    cd Developpez-le-back-end-en-utilisant-Java-et-Spring
     ```
 
 3. **Installer les dépendances**
